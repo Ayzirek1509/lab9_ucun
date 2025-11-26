@@ -1,8 +1,11 @@
 
 =======
 Dilmurod Tuxtanazarov
-<<<<<<< HEAD
->>>>>>> upstream/main
+=======
 Jahongir Abdurahimov
 =======
+Azizbek Boqiyev
+=======
 Jamshidbek Qodirov
+=======
+Jahongir Abdurahimov
